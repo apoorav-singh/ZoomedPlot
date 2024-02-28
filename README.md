@@ -9,10 +9,15 @@ Matplotlib (3.7.1)
 SciencePlot (2.1.1)
 
 # Result
-<img src=Figure_1.png alt="With SciencePlot" width="800"/> 
+
 ## With SciencePlot
 
-<img src=Figure_2.png alt="Normal Plot" width="900"/>
+<img src=Figure_1.png alt="With SciencePlot" width="800"/> 
+
 ## Normal Plot
+
+<img src=Figure_2.png alt="Normal Plot" width="900"/>
+
+
 
 
