@@ -10,5 +10,5 @@ SciencePlot (2.1.1)
 
 # Result
 <img src=Figure_1.png alt="With SciencePlot" width="500"/>
-<img src=Figure_2.png alt="Normal Plot" width="700"/>
+<img src=Figure_2.png alt="Normal Plot" width="600"/>
 
